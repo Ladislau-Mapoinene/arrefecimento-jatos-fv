@@ -1,0 +1,19 @@
+local,cenario,f_p,dE,E0,horas,dE_pct
+Beja,limite físico (T = T_ar),0.0,68.68954923744923,1016.3007158927057,0.0,6.758781939567286
+Beja,"protótipo SP, ventilador ensaiado",0.0,0.0,1016.3007158927057,0.0,0.0
+Beja,"protótipo SP, ventilador ensaiado",0.5,-14.24329992962555,1016.3007158927057,0.0,-1.4014847876117469
+Beja,"protótipo SP, ventilador ideal (P_hid)",0.0,6.256402163345456,1016.3007158927057,2770.6,0.6156054074851174
+Beja,"protótipo SP, ventilador ideal (P_hid)",0.5,-4.781830649858193,1016.3007158927057,2973.4,-0.4705133603746302
+Beja,"protótipo CP, ventilador ensaiado",0.0,0.0,1016.3007158927057,0.0,0.0
+Beja,"protótipo CP, ventilador ensaiado",0.5,-14.24329992962555,1016.3007158927057,0.0,-1.4014847876117469
+Beja,"protótipo CP, ventilador ideal (P_hid)",0.0,3.6480326280300233,1016.3007158927057,1778.6,0.3589520868167093
+Beja,"protótipo CP, ventilador ideal (P_hid)",0.5,-8.20569117847242,1016.3007158927057,2093.2,-0.8074077928071364
+Guimarães,limite físico (T = T_ar),0.0,56.57672970120689,863.563347109178,0.0,6.551543658099935
+Guimarães,"protótipo SP, ventilador ensaiado",0.0,0.0,863.563347109178,0.0,0.0
+Guimarães,"protótipo SP, ventilador ensaiado",0.5,-10.837030042290507,863.563347109178,0.0,-1.254920102684767
+Guimarães,"protótipo SP, ventilador ideal (P_hid)",0.0,5.275001950675232,863.563347109178,2352.0,0.610841343409672
+Guimarães,"protótipo SP, ventilador ideal (P_hid)",0.5,-3.0829945721176273,863.563347109178,2509.8,-0.357008502322164
+Guimarães,"protótipo CP, ventilador ensaiado",0.0,0.0,863.563347109178,0.0,0.0
+Guimarães,"protótipo CP, ventilador ensaiado",0.5,-10.837030042290507,863.563347109178,0.0,-1.254920102684767
+Guimarães,"protótipo CP, ventilador ideal (P_hid)",0.0,3.078318945360934,863.563347109178,1469.6,0.35646706818506857
+Guimarães,"protótipo CP, ventilador ideal (P_hid)",0.5,-5.9111295197658364,863.563347109178,1736.6,-0.6845044477111774
